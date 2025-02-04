@@ -12,3 +12,12 @@ a,p,ul{
     text-align: center;
     list-style: none;
 }
+img{
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 10%;
+}
